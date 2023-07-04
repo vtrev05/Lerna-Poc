@@ -1,0 +1,13 @@
+{
+  "name": "@testing-lerna/common",
+  "version": "1.0.0",  
+  "main": "common.js",
+  "license": "ISC",
+  "directories": {
+    "lib": "lib",
+    "test": "__tests__"
+  },
+  "files": [
+    "lib"
+  ]
+}

@@ -1,0 +1,5 @@
+{
+  "name": "@testing-lerna/basics-operations",
+  "version": "1.0.0",
+  "main": "basics-operations.js"
+}
