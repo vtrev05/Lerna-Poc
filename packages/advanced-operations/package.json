@@ -1,7 +1,7 @@
 {
   "name": "@testing-lerna/advanced-operations",
   "version": "1.0.0",
-  "main": "advanced.js", 
+  "main": "advanced.js",
   "dependencies": {
     "@testing-lerna/basics-operations": "^1.0.0"
   }
