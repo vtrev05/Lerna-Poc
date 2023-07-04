@@ -6,3 +6,12 @@ function factorial(a) {
 }
 
 exports.factorial = factorial;
+
+function summation(value, times) {
+  let result = value;
+  for (let i = 0; i < times; ++i) {
+    result = basicOperations.add(result, value);
+  }
+  
+  return result;
+}
